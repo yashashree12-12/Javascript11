@@ -36,3 +36,13 @@ console.log(typeof bigNumber); //undefined
 console.log(typeof outsideTemp); //object
 console.log(typeof scoreValue); //number
 
+//+++++++++++++++++++++++++++++++++++++++++
+
+//stack (primitive), heap (non-primitive)
+
+
+let myYoutubename = "yashashreeNimbalkarcom"
+
+let anothername = myYoutubename
+
+console.log(anothername);
